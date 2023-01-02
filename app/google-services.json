@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "483355009894",
+    "project_id": "settings-e4bdb",
+    "storage_bucket": "settings-e4bdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483355009894:android:4cf7d401383ef99ae29ea7",
+        "android_client_info": {
+          "package_name": "com.gwtf.settings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483355009894-rh4uomu3akjfu7ghua4969t62ouqivpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfSbvcrdD4DUUn98WDra1AWOM2s5to_Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483355009894-rh4uomu3akjfu7ghua4969t62ouqivpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
